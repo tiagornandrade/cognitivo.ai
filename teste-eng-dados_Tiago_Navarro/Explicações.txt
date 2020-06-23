@@ -1,0 +1,4 @@
+Requisitos:
+1- Utilizei o formato de Dataframe por ser o que tenho mais familiaridade.
+
+Trabalhei os dados pelo Databricks community por ser o ambiente Spark que já uso a algum tempo e que tem atendido as minhas necessidades de uso.
